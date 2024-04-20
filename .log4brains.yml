@@ -1,0 +1,8 @@
+project:
+  name: WayneGoosen.github.io ADRs
+  tz: Europe/Zurich
+  adrFolder: ./docs/adr
+  packages:
+    - name: blog
+      path: ./packages/blog
+      adrFolder: ./packages/blog/docs/adr

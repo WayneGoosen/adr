@@ -1,5 +1,5 @@
 project:
-  name: WayneGoosen.github.io ADRs
+  name: Wayne Goosen Decision Records
   tz: Europe/Zurich
   adrFolder: ./docs/adr
   packages:

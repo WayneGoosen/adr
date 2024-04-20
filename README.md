@@ -15,7 +15,7 @@ The experiment: Use ADRs to track all decisions made on any projects within my g
 
 ADRs are automatically published to our Log4brains architecture knowledge base:
 
-🔗 **<http://INSERT-YOUR-LOG4BRAINS-URL>**
+🔗 **<https://waynegoosen.github.io/adr/log4brains/>**
 
 Please use this link to browse them.
 

@@ -12,7 +12,7 @@ I need to identify a platform or technology for sharing blog content online. Whi
 ## Decision Drivers
 
 - Ideally owning the platform
-- Inexpesnive
+- Inexpensive
 - Good performance
 
 ## Considered Options
@@ -30,6 +30,7 @@ Chosen option: "Astro with github pages", because:
 - Blog template available. Up and running quickly.
 - Free hosting with github pages.
 - A few well known individuals in the industry using Astro.
+I can get up and running quickly with a clean blog website.
 
 ## Links
 

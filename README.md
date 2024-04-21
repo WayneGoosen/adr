@@ -1,15 +1,24 @@
-# ADR - A decision records experiment
+# ADR - An Experiment with Architecture Decision Records
 
-This repository uses log4brains to publish all ADRs within this repository.
+This repository employs Log4Brains to publish all Architectural Decision Records (ADRs) within it.
 
-The experiment: Use ADRs to track all decisions made on any projects within my github profile. If any project gets big enough move all the relevant ADRs to its repository.
+The experiment: Use ADRs to keep track of all decisions made across projects within my GitHub profile. If a project grows significantly, move all relevant ADRs to its repository.
 
 ## Why?
 
-1. Log of all decisions for history and recall purposes. Sometimes we forget WHY we did something a certain way.
-2. Visibility... Decisions around software are just trade offs and depend on the situation & context. This will help understand certain decisions.
-3. Practise crafting ADRs. Thought provoking process which will I hope help make better decisions.
-4. Bring in a level of professionalism with side projects.
+1. To maintain a log of all decisions for historical and recall purposes. It's easy to forget WHY a certain approach was taken.
+2. For visibility... Decisions in software development are trade-offs that depend on the situation and context. This will help in understanding certain decisions.
+3. To practice crafting ADRs. This thought-provoking process will ideally lead to better decision-making.
+4. To instill a level of professionalism in side projects.
+
+## Structure
+
+There are two distinct levels of ADRs:
+- Global: Decisions that impact all repositories.
+- Repository specific: Decisions exclusive to a particular project or product within a repository.
+
+The repository-specific ones are added as 'packages' within the Log4Brains structure. You can identify these by the package name next to the title within the user interface.
+
 
 # Architecture Decision Records
 

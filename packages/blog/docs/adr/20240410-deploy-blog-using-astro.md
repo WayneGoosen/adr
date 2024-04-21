@@ -1,4 +1,4 @@
-# deploy blog using astro
+# Deploy blog using Astro
 
 - Status: accepted <!--[draft | proposed | rejected | accepted | deprecated | … | superseded by [xxx](yyyymmdd-xxx.md)]  optional -->
 - Deciders: Wayne Goosen [list everyone involved in the decision] <!-- optional -->

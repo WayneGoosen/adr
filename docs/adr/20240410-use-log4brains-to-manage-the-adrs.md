@@ -1,6 +1,6 @@
 # Use Log4brains to manage the ADRs
 
-- Status: draft
+- Status: accepted
 - Date: 2024-04-09
 - Tags: dev-tools, doc
 

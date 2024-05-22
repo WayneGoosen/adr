@@ -7,7 +7,7 @@
 ![ADRs](https://adr.waynegoosen.com/log4brains/badge.svg)
 
 
-This repository employs [Log4Brains](https://github.com/thomvaill/log4brains/tree/master?tab=readme-ov-file#readme) to publish all Architectural Decision Records (ADRs) within it. These ADRs are to keep track of all decisions made across projects within my GitHub profile. If a project grows significantly, move all relevant ADRs to its repository.
+This repository employs [Log4Brains](https://github.com/thomvaill/log4brains/tree/master?tab=readme-ov-file#readme) to publish all Architectural Decision Records (ADRs) within it. These ADRs are to keep track of all decisions made across projects within my GitHub profile. If a project grows significantly then all relevant ADRs will be moved to its repository.
 
 <img src="./images/website.png" alt="Architecture Decision Records"/>
 

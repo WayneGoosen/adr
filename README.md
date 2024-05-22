@@ -26,21 +26,21 @@ There are two distinct levels of ADRs:
 
 The repository-specific ones are added as 'packages' within the Log4Brains structure. You can identify these by the package name next to the title within the user interface.
 
-# Whats the damage (WTD)? 💰
+## Whats the damage (WTD)? 💰
 
 $0 per month.
 
-# Technologies Used 🧑‍💻
+## Technologies Used 🧑‍💻
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-# Hosting and Deployment 🚀
+## Hosting and Deployment 🚀
 
 - Hosting: Github Pages
 - Deployment: Github Actions
 
-# Architecture Overview 🏛️
+## Architecture Overview 🏛️
 
 - Frontend component only. 
 - No external data sources or API's consumed.

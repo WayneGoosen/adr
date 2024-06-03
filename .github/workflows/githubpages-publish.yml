@@ -2,7 +2,7 @@ name: Publish Log4brains
 on:
   push:
     branches:
-      - master
+      - main
   workflow_dispatch:
 
 jobs:
